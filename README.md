@@ -1,2 +1,3 @@
 # Virtual-Piano-Using-Open-CV-library
 This project is made using "Open-CV" library. It identifies red color and whenever that red color comes in specific co-ordinate of virtual piano, it produces a musical sound(downloaded from net) .Although, we can also play this virtual piano using tongue(as it identifies it as a red color).        Co-ordinate Geometry finds it's various application in "Open-CV" library.We have studied Co-ordinate Geometry theories in high school but can't find it's applications.So, it's good that the things we have studied in past is coming into action in our present and future!
+NOTE: The red color should be at one rectangle at a time, it should not conflict with more than 1 rectangle at a time otherwise the sound will not produced.
